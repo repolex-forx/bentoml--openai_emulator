@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "openai_emulator",
+  "versions": [
+    {
+      "commit": "ee306ddfdc7b01f8e2ec3d1bd79661009be67df6",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:04:54.194415+00:00"
+    }
+  ]
+}
