@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "openai_emulator",
+  "versions": [
+    {
+      "commit": "ee306ddfdc7b01f8e2ec3d1bd79661009be67df6",
+      "parsed_at": "2026-11-08T06:03:15.603762+00:00",
+      "filetree": "filetree/ee306ddfdc7b01f8e2ec3d1bd79661009be67df6.nq.gz",
+      "blobs": [
+        "blob/2bd31fdd2a3d290b651cd0f5dbdb52946aa061dd.nq.gz",
+        "blob/b081263ea397487f44789fd4aa4ab2ab8ccec1ff.nq.gz",
+        "blob/f4e455d1cb8376ab64d9f888f6932fb073283640.nq.gz",
+        "blob/1bddb6e95e101f18b59befba7c0ddf0da6c70131.nq.gz",
+        "blob/e4a4f3f2a27389a457c0c1b6bec3077cb8a1a3f2.nq.gz",
+        "blob/09d04a52980c07b528bb695e619a3f6984fd9f78.nq.gz",
+        "blob/d23f66d528f9b47435b70c1510b04b275db659c0.nq.gz",
+        "blob/180899bca26bf9d922a61355809818076dee60e6.nq.gz",
+        "blob/e70a32c7876f55e3c4c44ff0a17ef0ac6c6b14fa.nq.gz",
+        "blob/306d6b7ceb356bd785e1edac04c19a30527267cb.nq.gz",
+        "blob/2cb624b139e74257d9e20ddd4396e03aa4161e34.nq.gz",
+        "blob/c2510c57723a58154446703b6d64646eb5fdc389.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
