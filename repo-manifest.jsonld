@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/openai_emulator/commit/ee306ddfdc7b01f8e2ec3d1bd79661009be67df6",
       "git:hexsha": "ee306ddfdc7b01f8e2ec3d1bd79661009be67df6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
